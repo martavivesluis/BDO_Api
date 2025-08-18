@@ -1,0 +1,18 @@
+[
+  {
+    "provider": "mock-wms",
+    "stocks": [
+      { "sku": "ABC-1234", "quantity": 100, "location": "Warehouse-A" },
+      { "sku": "MVL-5595", "quantity": 50, "location": "Warehouse-B" },
+      { "sku": "MLR-4859", "quantity": 75, "location": "Warehouse-C" }
+    ]
+  },
+
+  {
+    "provider": "mock-wms-2",
+    "stocks": [
+      { "sku": "PXL-8034", "quantity": 65, "location": "Warehouse-A" },
+      { "sku": "ELB-9233", "quantity": 50, "location": "Warehouse-B" }
+    ]
+  }
+]

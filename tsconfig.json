@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "resolveJsonModule": true,
+
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "useDefineForClassFields": false,
+
+    "strict": true, // Opcional, pero recomendable
+    "skipLibCheck": true // Opcional: evita errores en dependencias
+  },
+  "include": ["src", "src/swagger.ts", "src/tests"]
+}
