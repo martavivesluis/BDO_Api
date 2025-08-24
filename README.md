@@ -51,5 +51,3 @@ After that, we can access to our Api's endpoints, take into account that during 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
-# BDO_Api
-Test
